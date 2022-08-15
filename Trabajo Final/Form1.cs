@@ -87,5 +87,10 @@ namespace Trabajo_Final
             form2.Show();
             form2.listaUsuario2 = listaUsuarios;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //tutuju
+        }
     }
 }
